@@ -3,7 +3,7 @@ import {
   Navbar,
   Welcome,
   Loader,
-  Sercives,
+  Services,
   Transactions,
   Footer,
 } from "./components";
@@ -16,7 +16,7 @@ function App() {
         <Navbar />
         <Welcome />
       </div>
-      <Sercives />
+      <Services />
       <Transactions />
       <Footer />
     </div>
